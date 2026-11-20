@@ -82,7 +82,7 @@ const destinationsData = {
     {
       id: 11,
       name: "Andaman",
-      image: "https://th.bing.com/th/id/OIP.xEs0FkPuU3YyD1Iuma7nTwHaFj?rs=1&pid=ImgDetMain",
+      image: "https://travelogyindia.b-cdn.net/storage/app/upload/jolly-buoy-island-andaman.jpg",
       description: "Discover the mesmerizing allure of the Andaman & Nicobar Islands with Travelista's exclusive Andaman Tour Package. Renowned for its surreal landscapes, Andaman is a haven for those seeking an escapade from the mundane. The pristine beaches here are not just a feast for the eyes but also a playground for water adventure enthusiasts. Dive deep into the clear blue waters, explore the vibrant marine life, or simply soak up the sun on the golden sands.Undoubtedly, Andaman stands out as the best getaway in India, presenting a harmonious blend of relaxation and excitement for all kinds of travelers. Andaman Package - ₹38,000 per person 5 Days / 4 Nights beach holiday with scuba diving and island hopping. ",
     },
 
@@ -110,7 +110,7 @@ const destinationsData = {
          description: "Indulge in a magnificent travel experience to Sikkim with us and avail the best deal on your Sikkim tour. Choose  our tour package that is budget-friendly and cater to both long and short trips. We offer a variety of choices that you can pick from including Sikkim Family Tours, Honeymoon Packages, Adventure & Trekking Packages, Cultural Tours, and Weekend Tours. Our Sikkim tourism package can be customized and tailored to your specific needs and preferences.Experience the best parts of Sikkim with us as we take you through the popular tourist destinations to explore its historic monasteries, legendary lakes, national parks, enveloped with the grandeur of the mighty Mount Kanchenjunga all around. A perfect getaway from the loud cities, Sikkim’s calmness will delight your soul. Sikkim Package- ₹30,000 per person 5 Days / 4 Nights covering Gangtok, Nathula Pass, and Tsomgo Lake. " 
        },
        { id: 15, name: "Assam",
-        image: "https://th.bing.com/th/id/OIP.XqIQFTQgHtrJ-4Si1ihpyQHaD4?w=1200&h=630&rs=1&pid=ImgDetMain",
+        image: "https://tse4.mm.bing.net/th/id/OIP.Q0BhPWXxGlJAmEcvJZ43swHaEc?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
         
          description: "The mystifying land of soaring blue hills and undulating river valleys, Assam is the doorway to the northeast fringes of India. A popular tourism destinations among the nature lovers, this state attracts countless tourists from all over the world through its peerless tourist attractions. The radiant Brahmaputra River flowing from Tibet meanders from Assam and augments the beauty of the region. With its breathtaking natural exquisiteness, Assam paves a way for a congenial and unforgettable tour for the travellers. A tourist must visit this place to get drenched in mystic tranquility and gripping panorama. Assam Package- ₹28,000 per person 5 Days / 4 Nights covering Kaziranga National Park and Brahmaputra River cruise. " 
        },
